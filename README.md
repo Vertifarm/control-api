@@ -18,3 +18,7 @@ pip install -r requirements.txt
 uvicorn app.main:app --port 8001
 python -m pytest        # nécessite requirements-dev.txt à la racine
 ```
+
+
+## Équipe de vertiFarm
+- <Mick> — mainteneur du dépôt <control-api>
